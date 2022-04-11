@@ -13,7 +13,7 @@ Parsisiuntę ir įsirašė GIT CLI, parsisiųskite repozitoriją, esamame katalo
     
 ## Pagrindinės komandos
 
-    __ git add __ -> failų paruošimas patvirtinimui
+    **git add** -> failų paruošimas patvirtinimui
         **git add <failo-pavadinimas>** -> prideda failą nurodytu pavadinimu.
         **git add .** -> prideda visus pakitusius failus.
     
