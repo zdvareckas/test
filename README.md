@@ -1,1 +1,1 @@
-# test
+# Mano pirmoji GIT repozitorija
