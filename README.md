@@ -22,11 +22,11 @@ Parsisiuntę ir įsirašė GIT CLI, parsisiųskite repozitoriją, esamame katalo
     
 - **git status** -> parodo pakitusiu failų būseną
 
--**git branch** -> komanda kuri naudojama operacijoms su šakomis.
+- **git branch** -> komanda kuri naudojama operacijoms su šakomis.
   -**git branch -a** -> parodo visas pariųstas šakas ir šiuo metu aktyvią šaką.
     
--**git commit** -> komanda skirta užtvirtinti projekto pakitimus.
+- **git commit** -> komanda skirta užtvirtinti projekto pakitimus.
   - **git commit -m "Žinutė apibūdinanti pakitimą"**
 
--**git push** -> komanda skirta paviešinti commit'us į atitinkamą globalią šaką.
+- **git push** -> komanda skirta paviešinti commit'us į atitinkamą globalią šaką.
 
